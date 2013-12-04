@@ -2,9 +2,9 @@ require 'omniauth/strategies/oauth2'
 
 module OmniAuth
   module Strategies
-    class Surveymonkey < OmniAuth::Strategies::OAuth2
+    class Surveymonkey2 < OmniAuth::Strategies::OAuth2
 
-      option :name, "surveymonkey"
+      option :name, "surveymonkey2"
 
       option :client_options, {
         :site => "https://api.surveymonkey.com",

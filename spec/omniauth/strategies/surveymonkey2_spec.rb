@@ -1,9 +1,9 @@
-require 'omniauth-surveymonkey'
+require 'omniauth-surveymonkey2'
 
-describe OmniAuth::Strategies::Surveymonkey do
+describe OmniAuth::Strategies::Surveymonkey2 do
   
   subject do
-    OmniAuth::Strategies::Surveymonkey.new(nil, {}) 
+    OmniAuth::Strategies::Surveymonkey2.new(nil, {}) 
   end
 
 	describe '#client' do
@@ -23,7 +23,7 @@ describe OmniAuth::Strategies::Surveymonkey do
 
 	describe '#callback_path' do
     it 'should have the correct callback path' do
-      subject.callback_path.should == ('/auth/surveymonkey/callback')
+      subject.callback_path.should == ('/auth/surveymonkey2/callback')
     end
   end
 end
