@@ -4,11 +4,7 @@ TODO: Write a gem description
 
 ## Installation
 
-<<<<<<< HEAD
 Copyright (c) 2013 Kaushik SV, Chris Beck
-=======
-Add this line to your application's Gemfile:
->>>>>>> refs/heads/original_state
 
     gem 'omniauth-surveymonkey2'
 
