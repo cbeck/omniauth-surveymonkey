@@ -3,13 +3,9 @@ require File.expand_path('../lib/omniauth/surveymonkey2/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.add_dependency 'omniauth', '~> 1.0'
 
-<<<<<<< HEAD:omniauth-surveymonkey.gemspec
   gem.authors = ["Kaushik SV", "Chris Beck"]
   gem.email = ["speak2kaushik@gmail.com", "chris.beck@me.com"]
-=======
-  gem.authors = ["Chris Beck"]
-  gem.email = ["chris.beck@me.com"]
->>>>>>> refs/heads/original_state:omniauth-surveymonkey2.gemspec
+
   gem.description = %q{Survemonkey OAuth2 strategy for OmniAuth 1.0}
   gem.summary = %q{Survemonkey OAuth2 strategy for OmniAuth 1.0.}
 
@@ -18,13 +14,9 @@ Gem::Specification.new do |gem|
   gem.test_files = `git ls-files spec/*`.split("\n")
   gem.name = "omniauth-surveymonkey2"
   gem.require_paths = ["lib"]
-<<<<<<< HEAD:omniauth-surveymonkey.gemspec
-  gem.version = OmniAuth::Surveymonkey::VERSION
-  gem.homepage = "https://github.com/cbeck/omniauth-surveymonkey"
-=======
+
   gem.version = OmniAuth::Surveymonkey2::VERSION
-  gem.homepage = "https://github.com/cbeck/omniauth-surveymonkey2"
->>>>>>> refs/heads/original_state:omniauth-surveymonkey2.gemspec
+  gem.homepage = "https://github.com/cbeck/omniauth-surveymonkey"
 
   gem.add_runtime_dependency 'omniauth-oauth2'
 
