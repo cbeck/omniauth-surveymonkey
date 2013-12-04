@@ -1,13 +1,33 @@
-#Surveymonkey Strategy
+# Omniauth::Surveymonkey2
 
-SurveyMonkey OAuth2 strategy for OmniAuth 1.0.
+TODO: Write a gem description
 
-#License
+## Installation
 
+<<<<<<< HEAD
 Copyright (c) 2013 Kaushik SV, Chris Beck
+=======
+Add this line to your application's Gemfile:
+>>>>>>> refs/heads/original_state
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    gem 'omniauth-surveymonkey2'
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+And then execute:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install omniauth-surveymonkey2
+
+## Usage
+
+TODO: Write usage instructions here
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
