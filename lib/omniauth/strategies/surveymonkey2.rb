@@ -10,7 +10,7 @@ module OmniAuth
       option :name, "surveymonkey2"
 
       option :client_options, {
-        :site => "https://api-surveymonkey-com-fytofsd4ktc2.runscope.net",
+        :site => "https://api.surveymonkey.com",
         :authorize_url => '/oauth/authorize',
         :token_url => '/oauth/token'
       }
