@@ -1,6 +1,6 @@
 # Omniauth::Surveymonkey2
 
-TODO: Write a gem description
+This is an alternative OmniAuth strategy for Survey Monkey. This one retrieves a long-use token after authentication is made and returns it in the 'omniauth.auth' hash that is set after the callback phase is completed.
 
 ## Installation
 
@@ -18,7 +18,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+For more information on using OmniAuth to connect to Oauth APIs, go here:
+
+[Intridea's OmniAuth Github Page][https://github.com/intridea/omniauth]
+
+For more information on using the Survey Monkey API, go here:
+
+[Survey Monkey's Developer Home][https://developer.surveymonkey.com/Home]
 
 ## Contributing
 
