@@ -20,11 +20,11 @@ Or install it yourself as:
 
 For more information on using OmniAuth to connect to Oauth APIs, go here:
 
-[Intridea's OmniAuth Github Page][https://github.com/intridea/omniauth]
+[Intridea's OmniAuth Github Page](https://github.com/intridea/omniauth)
 
 For more information on using the Survey Monkey API, go here:
 
-[Survey Monkey's Developer Home][https://developer.surveymonkey.com/Home]
+[Survey Monkey's Developer Home](https://developer.surveymonkey.com/Home)
 
 ## Contributing
 
